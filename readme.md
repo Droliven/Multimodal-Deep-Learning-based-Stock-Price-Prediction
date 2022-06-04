@@ -30,7 +30,7 @@ The implementation details and the result of the project can be found in Report.
 
 ## How to contribute
 
-1. `./data.py`: �������� tokenlize, �ɼ����� Normalize
-2. `./train.py`: ѵ��ģ�ͣ��õ� `model.h5`
-3. `./test.py`: ����ģ��
-4. `./tune.py`: ���ò�ͬģ�ͳ�����������ѵ��ģ�ͣ��Ա�Ч��
+1. `./data.py`: 新闻数据 tokenlize, 股价数据? Normalize
+2. `./train.py`: 训练模型 `model.h5`
+3. `./test.py`: 测试
+4. `./tune.py`: 对比其他超参数设置，分别重新训练模型
