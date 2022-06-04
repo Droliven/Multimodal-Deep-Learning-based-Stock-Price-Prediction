@@ -1,0 +1,1 @@
+{"optim": "rmsprop", "epochs": 40, "lossfn": "mse", "lstm_unit": 256}
